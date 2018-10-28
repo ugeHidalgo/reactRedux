@@ -1,7 +1,7 @@
 import expect from 'expect';
 
-describe('',function(){
-    it('',function(){
+describe('Initial tests',() => {
+    it('Should launch test properly', () => {
         expect(true).toEqual(true);
     });
 });
